@@ -4,7 +4,7 @@ This repository contains the tasks completed during the Web Development Internsh
 
 ## Task 1: Hacking Vibe Darkish Landing Page
 
-The first task, `take 1`, involves creating a simple landing page with a dark and hacking-inspired design. The page is built using HTML and CSS, and it incorporates various features and elements to create an engaging user experience.
+The first task, `task 1`, involves creating a simple landing page with a dark and hacking-inspired design. The page is built using HTML and CSS, and it incorporates various features and elements to create an engaging user experience.
 
 ### Instructions
 
