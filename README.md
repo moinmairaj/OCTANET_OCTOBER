@@ -37,4 +37,4 @@ Thank you for checking out OCTANET_OCTOBER!
 
 ### Preview
 
-You can preview the `task 1` landing page by clicking [here](https://moinmair).
+You can preview the `task 1` landing page by clicking [here](https://moinmairaj.github.io/OCTANET_OCTOBER/).
